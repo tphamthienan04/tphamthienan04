@@ -21,9 +21,9 @@ During my 2.5 years as a Growth/Business Analyst at **Be Group JSC** in Ho Chi M
 ### 💡 Featured Analytical & Engineering Projects
 *(Click on the links below to view the full repositories, including code, pipelines, and detailed business insights)*
 
-*   🔗 **[Enterprise Predictive Analytics with SAS]**: Developed and trained robust predictive models using SAS to forecast business trends and customer behaviors. Evaluated model accuracy and statistical significance to drive enterprise-level decision-making.
-*   🔗 **[Cloud Data Pipeline & AI Chatbot]**: Architected an end-to-end scalable data pipeline and deployed an intelligent chatbot using Cloud services. Designed with well-architected principles to ensure efficient data processing, automated workflows, and real-time analytics retrieval.
-*   🔗 **[AI-Powered Application: Smart Kitchen Hero]**: Built an interactive mobile application concept integrating AI to optimize inventory management. The app scans ingredients and suggests recipes, directly addressing food waste while demonstrating strong UI/UX design and modern "vibe coding" development practices.
+*   🔗 **[[Enterprise Predictive Analytics with SAS]]([url](https://github.com/tphamthienan04/Bank-Telemarketing-SAS-Analytics))**: Developed and trained robust predictive models using SAS to forecast business trends and customer behaviors. Evaluated model accuracy and statistical significance to drive enterprise-level decision-making.
+*   🔗 **[[Cloud Data Pipeline & AI Chatbot]]([url](https://github.com/tphamthienan04/Azure-Data-Pipeline-Melbourne-Pedestrian-Traffic))**: Architected an end-to-end scalable data pipeline and deployed an intelligent chatbot using Cloud services. Designed with well-architected principles to ensure efficient data processing, automated workflows, and real-time analytics retrieval.
+*   🔗 **[[AI-Powered Application: Smart Kitchen Hero]]([url](https://github.com/tphamthienan04/AI-Kitchen-Hero))**: Built an interactive mobile application concept integrating AI to optimize inventory management. The app scans ingredients and suggests recipes, directly addressing food waste while demonstrating strong UI/UX design and modern "vibe coding" development practices.
 *   🔗 **[Bank-Marketing-Optimization-Tableau]**: Performed Exploratory Data Analysis (EDA) and statistical testing to segment high-ROI customers. Designed interactive Tableau dashboards to optimize campaign contact durations and maximize conversion rates.
 
 ### 🛠️ Core Competencies & Tech Stack
