@@ -19,7 +19,6 @@ During my 2.5 years as a Growth/Business Analyst at **Be Group JSC** in Ho Chi M
 *   **Strategic Forecasting:** Developed comprehensive Profit & Loss forecasts and scenario analyses to assess the feasibility and operational impact of high-value user retention initiatives.
 
 ### 💡 Featured Analytical & Engineering Projects
-*(Click on the links below to view the full repositories, including code, pipelines, and detailed business insights)*
 
 *   🔗 **[Enterprise Predictive Analytics with SAS](https://github.com/tphamthienan04/Bank-Telemarketing-SAS-Analytics)**: Developed and trained robust predictive models using SAS to forecast business trends and customer behaviors. Evaluated model accuracy and statistical significance to drive enterprise-level decision-making.
 *   🔗 **[Cloud Data Pipeline](https://github.com/tphamthienan04/Azure-Data-Pipeline-Melbourne-Pedestrian-Traffic)**: Architected an end-to-end scalable data pipeline and deployed an intelligent chatbot using Cloud services. Designed with well-architected principles to ensure efficient data processing, automated workflows, and real-time analytics retrieval.
