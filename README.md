@@ -1,4 +1,4 @@
-# Hi there, I'm An (Ashley) Tran 👋
+# Hi there, I'm Ashley Tran 👋
 
 💻 **Data Analyst | Business Strategy & Analytics | Cloud & AI Enthusiast**
 
