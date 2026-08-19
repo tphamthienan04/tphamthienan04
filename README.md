@@ -2,7 +2,7 @@
 
 💻 **Data Analyst | Business Strategy & Analytics | Cloud & AI Enthusiast**
 
-🎓 Currently pursuing a Master of Business Analytics (Data Science major) at La Trobe University, Melbourne (GPA: 88.5/100 | La Trobe High Achiever Scholar).
+🎓 Currently pursuing a Master of Business Analytics (Data Science major) at La Trobe University, Melbourne (GPA: 86.88/100 | La Trobe High Achiever Scholar).
 
 📊 Bachelor of Business Administration (International Business) from International University, Vietnam.
 
@@ -57,7 +57,7 @@ During my **2.5 years as a Growth/Business Analyst at Be Group JSC** in Ho Chi M
 ---
 
 ### 📫 Let's Connect & Explore!
-*   **LinkedIn:** [An Tran (Ashley)](https://www.linkedin.com/in/an-tran-ashley/)
-*   **Detailed Portfolio:** [📘 View my Business Case Studies on Notion](https://app.notion.com/p/Hi-there-I-m-Ashley-Tran-b7fc4dedc32d46b6b3baca3aaed26451)
+*   **LinkedIn:** [Ashley Tran](https://www.linkedin.com/in/an-tran-ashley/)
+*   **Detailed Portfolio:** [📘 View my Business Case Studies on Notion](https://meowing-orchestra-d12.notion.site/Hi-there-I-m-Ashley-Tran-b7fc4dedc32d46b6b3baca3aaed26451?source=copy_link)
 *   **Location:** Melbourne, VIC
 *   **Email:** ashleytran868@gmail.com
