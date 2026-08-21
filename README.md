@@ -7,14 +7,14 @@
 📊 Bachelor of Business Administration (International Business) from International University, Vietnam.
 
 ### 🔥 About Me
-With **2.5+ years of hands-on experience driving data-led growth** as a Growth/Business Analyst at Be Group JSC, combined with my advanced postgraduate training in **Business Analytics & Data Science** at La Trobe University, I bridge the gap between deep technical data science and core business strategy. 
+With **3 years of hands-on experience driving data-led growth** as a Growth/Business Analyst at Be Group JSC, combined with my advanced postgraduate training in **Business Analytics & Data Science** at La Trobe University, I bridge the gap between deep technical data science and core business strategy. 
 
 I don’t just query data or build surface-level dashboards—I leverage my deep domain foundation in business analytics to dissect end-to-end product funnels, uncover hidden behavioral bottlenecks, and combine rigorous statistical depth with real-world commercial impact. Whether it's optimizing promotional spending models, deploying predictive machine learning pipelines, or tracking exact "Aha! moments" to solve massive churn leaks, my approach is rooted in first-principles critical thinking.
 
 ---
 
 ### 💼 Professional Experience & Business Impact
-During my **2.5 years as a Growth/Business Analyst at Be Group JSC** in Ho Chi Minh City, Vietnam, I immersed myself in high-stakes platform analytics across ride-hailing, food delivery, and digital goods:
+During my **3 years as a Growth/Business Analyst at Be Group JSC** in Ho Chi Minh City, Vietnam, I immersed myself in high-stakes platform analytics across ride-hailing, food delivery, and digital goods:
 * **Cost Optimization & Revenue Growth:** Engineered a co-funding model using SQL and econometric models that reduced promotional spending by 1.5% of total GMV while driving a 65% increase in sales (H2 2024).
 * **Campaign Analytics & A/B Testing:** Led end-to-end promotional strategies, achieving a 110% surge in Digital Goods sales (H1 2024) through rigorous user behavior modeling.
 * **Strategic Forecasting:** Developed comprehensive Profit & Loss forecasts and scenario analyses to assess the feasibility and operational impact of high-value user retention initiatives.
